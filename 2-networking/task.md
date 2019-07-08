@@ -23,7 +23,6 @@ You need to setup 2 nodes(master,worker) cluster using kubeadm utility and make 
   2. Navigate to folder with Vagrantfile
   3. Vagrant up master, vagrant up worker
   4. Make sure you're able to reach internet from inside your environment.
-
 2. Read and understand materials
 3. Follow guide to create 2-node control-plane k8s cluster
   1. Configure cluster to use only worker node for workloads
