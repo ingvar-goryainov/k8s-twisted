@@ -11,6 +11,7 @@ Step-by-step k8s workshop with questions
 
 ## Tasks
 [1-single-node](./1-single-node/task.md)
+[2-networking](./2-networking/task.md)
 
 ## Links
 1. https://kubernetes.io/docs/
